@@ -40,7 +40,7 @@ dev_dependencies:
   built_value_generator: ^8.3.0
   flutter_test:
     sdk: flutter
-  grinder: ^0.9.0
+  grinder: ^0.10.1
   msix: ^3.9.2
 
 flutter:
