@@ -10,7 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  cupertino_icons: ^1.0.4
+  cupertino_icons: ">=1.0.4 <3.0.0"
 
 dev_dependencies:
   analysis_defaults:
